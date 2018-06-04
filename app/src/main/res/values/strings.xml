@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleLoginApp</string>
+    <string name="button_login_text">Войти</string>
+</resources>
